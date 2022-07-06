@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5477586332:AAHC4qDMVRxP34J_-QC9ClkBQaTKJ-K2iws"
     APP_ID = "15168215"
     API_HASH = "24524388714126a85ff5123031a9e7c9"
-    DATABASE_URL = "postgres://bafiyboviefdjx:75e7217000d0719789f100fc2f18f66b7e26130e5b9ac32c1f767645796dd654@ec2-44-198-82-71.compute-1.amazonaws.com:5432/der16bkilv2lge"
+    DATABASE_URL = "postgres://knhxdgoycguluh:3820c532f3be5a0e4b52bc431fdab19a4363304a49e756209f143cfdcad331df@ec2-54-159-22-90.compute-1.amazonaws.com:5432/d2idmjuaurvvjm"
     SUDO_USERS = "974730242 863286989 1305441697" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/googledriveupload"
     DOWNLOAD_DIRECTORY = "./downloads/"
