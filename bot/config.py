@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "5477586332:AAHC4qDMVRxP34J_-QC9ClkBQaTKJ-K2iws"
-    APP_ID = "15168215"
-    API_HASH = "24524388714126a85ff5123031a9e7c9"
-    DATABASE_URL = "postgres://knhxdgoycguluh:3820c532f3be5a0e4b52bc431fdab19a4363304a49e756209f143cfdcad331df@ec2-54-159-22-90.compute-1.amazonaws.com:5432/d2idmjuaurvvjm"
-    SUDO_USERS = "974730242 863286989 1305441697" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/googledriveupload"
+    BOT_TOKEN = "5579781807:AAERmhCD599Viua6XzfAALzaYCX7ce83VLw"
+    APP_ID = "10337096"
+    API_HASH = "44eb4f665fe6c15824c5b469d1111424"
+    DATABASE_URL = "postgres://lfdfsxoxlfjaun:253f81958e5f07e3c4031eaf454ebba4c32e0c6245275019b33fa2e315bec051@ec2-52-205-61-230.compute-1.amazonaws.com:5432/daron8orlfq5uc"
+    SUDO_USERS = "974730242 1305441697" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/+zX57QVoYXmRhMTg1"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "507696650169-6qtk2oa77lk3gt709fpvvd7v2bhuubj7.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "5579781807:AAERmhCD599Viua6XzfAALzaYCX7ce83VLw"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
